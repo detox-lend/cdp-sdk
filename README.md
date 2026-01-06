@@ -40,6 +40,16 @@ CDP SDK has full-featured client libraries for the following languages. Follow t
 - [Go](./go)
 - [Rust](./rust)
 
+## Local Development Setup
+
+### Configuration
+
+Before running the application locally, you need to configure the environment variables. Start by copying the `.env.example` file to `.env`:
+
+```bash
+cp .env.example .env
+```
+
 ## 📚 Documentation
 
 CDP SDK has auto-generated SDK docs for each of the full-featured client libraries:
