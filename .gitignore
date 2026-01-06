@@ -89,3 +89,7 @@ target/
 
 # Env files
 **/.env
+
+# Ignore local environment files
+.env
+.env.local
